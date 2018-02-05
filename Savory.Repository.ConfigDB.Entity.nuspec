@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Savory.Repository.ConfigDB.Entity</id>
+    <version>1.0.0</version>
+    <title>Savory.Repository.ConfigDB.Entity</title>
+    <authors>Harris Zhang</authors>
+    <owners>Harris Zhang</owners>
+    <licenseUrl>https://www.savory.cn</licenseUrl>
+    <projectUrl>https://www.savory.cn</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/harriszhang14/Ranta/master/Ranta.Image/Icon/RantaIcon_150_150.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Savory.Repository.ConfigDB.Entity</description>
+    <releaseNotes>Savory.Repository.ConfigDB.Entity</releaseNotes>
+    <copyright>Copyright © Harris Zhang 2016</copyright>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework="net40" />
+    </frameworkAssemblies>
+    <tags>Savory.Repository.ConfigDB.Entity</tags>
+  </metadata>
+  <files>
+    <file src="Savory.Repository.ConfigDB.Entity\bin\Release\Savory.Repository.ConfigDB.Entity.dll" target="lib\net45" />
+    <file src="Savory.Repository.ConfigDB.Entity\bin\Release\Savory.Repository.ConfigDB.Entity.xml" target="lib\net45" />
+  </files>
+</package>
